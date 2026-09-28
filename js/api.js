@@ -1,6 +1,6 @@
 /* api.js - ตัวเรียก GAS Web App แบบเลี่ยง CORS preflight
    ใส่ URL /exec ที่ได้จากการ Deploy ตรงนี้ */
-const API_URL = 'https://script.google.com/macros/s/AKfycbwN51IaAti6ZdqPmOseYO-eKCRh-SY90vRk6_iyK6VA85TbxbveiTQ2y-by45z41tt2/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbwQdh4mR099vOxBVWQ-u2lIUM4lvk7QdaYA-wpfaxeqI8HKrpMTPQtkj4cTkIFPSlAd/exec';
 
 /**
  * เรียก action ฝั่ง GAS
